@@ -10,8 +10,7 @@ Fueron utilizados los siguientes recursos: Python como código principal, y pand
 Abrir el archivo `Análisis_de_Transacciones_con_Tarjeta_de_Crédito_(2019–2020).ipynb` en Google Colab o Jupyter Notebook y ejecutar las celdas en orden.
 ## Clonar el repositorio
 _Git clone_ https://github.com/vsanzi22/herramientasbasicas-sanzi-valeria
-## Instalar librerias
-pip install -r requirements.txt
+
 ## Resultados principales
 El análisis de las transacciones con tarjeta de crédito durante el período 2019–2020 permitió identificar patrones claros que distinguen el comportamiento fraudulento del legítimo en tres dimensiones: temporal, económica y comercial.
 
