@@ -1,6 +1,20 @@
+# Información
+**Autora:** Sanzi, Valeria Alejandra
+
+**Curso:** Herramientas básicas para el Análisis de Datos — UTN BA  
+
+**Cohorte:** 2025
+
 # Análisis de Transacciones con Tarjeta de Crédito (2019–2020)
 Este proyecto analiza la detección de patrones de fraude en contexto pandémico, utilizando Python y Google Colab.
-## Dataset de Loan Default
+
+## Pregunta principal
+¿Cómo evolucionó el comportamiento de las transacciones con tarjeta de 
+crédito entre 2019 y 2020, y qué patrones distinguen a las transacciones 
+fraudulentas de las legítimas en términos de monto, categoría y 
+distribución temporal?
+
+## Dataset
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv)
 
 El presente es un dataset sintético de transacciones realizadas con tarjeta de crédito durante el período 2019–2020, generado mediante simulación computacional y publicado en Kaggle. El dataset incluye tanto transacciones legítimas como fraudulentas.
